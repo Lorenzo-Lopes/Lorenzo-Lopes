@@ -1,4 +1,4 @@
-### Opa, bão?
+### Opa, bão? <img src="https://cdn.icon-icons.com/icons2/1447/PNG/512/32432hotbeverage_98916.png" alt="" width="30">
 
 <div align="center">
   <a href="https://github.com/Lorenzo-Lopes">
